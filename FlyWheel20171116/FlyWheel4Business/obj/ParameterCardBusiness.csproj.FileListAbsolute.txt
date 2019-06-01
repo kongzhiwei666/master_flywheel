@@ -1,0 +1,48 @@
+E:\PublishingCard\ParameterCardBusiness\bin\Debug\ParameterCardBusiness.dll
+E:\PublishingCard\ParameterCardBusiness\bin\Debug\ParameterCardBusiness.pdb
+E:\PublishingCard\ParameterCardBusiness\bin\Debug\Framework.dll
+E:\PublishingCard\ParameterCardBusiness\bin\Debug\SandBar.dll
+E:\PublishingCard\ParameterCardBusiness\bin\Debug\Framework.pdb
+E:\PublishingCard\ParameterCardBusiness\obj\Debug\ResolveAssemblyReference.cache
+E:\PublishingCard\ParameterCardBusiness\obj\Debug\ParameterCardBusiness.dll
+E:\PublishingCard\ParameterCardBusiness\obj\Debug\ParameterCardBusiness.pdb
+E:\PublishingCard\ParameterCardBusiness\bin\Release\ParameterCardBusiness.dll
+E:\PublishingCard\ParameterCardBusiness\bin\Release\ParameterCardBusiness.pdb
+E:\PublishingCard\ParameterCardBusiness\bin\Release\Framework.dll
+E:\PublishingCard\ParameterCardBusiness\bin\Release\SandBar.dll
+E:\PublishingCard\ParameterCardBusiness\bin\Release\Framework.pdb
+E:\PublishingCard\ParameterCardBusiness\obj\Release\ResolveAssemblyReference.cache
+E:\PublishingCard\ParameterCardBusiness\obj\Release\ParameterCardBusiness.dll
+E:\PublishingCard\ParameterCardBusiness\obj\Release\ParameterCardBusiness.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCardBusiness\bin\Release\ParameterCardBusiness.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCardBusiness\bin\Release\ParameterCardBusiness.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCardBusiness\bin\Release\Framework.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCardBusiness\bin\Release\SandBar.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCardBusiness\bin\Release\Framework.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCardBusiness\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCardBusiness\obj\Release\ParameterCardBusiness.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCardBusiness\obj\Release\ParameterCardBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCardBusiness\bin\Release\ParameterCardBusiness.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCardBusiness\bin\Release\ParameterCardBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCardBusiness\bin\Release\Framework.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCardBusiness\bin\Release\SandBar.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCardBusiness\bin\Release\Framework.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCardBusiness\obj\Release\ResolveAssemblyReference.cache
+E:\项目\PublishingCard\PublishingCard\ParameterCardBusiness\obj\Release\ParameterCardBusiness.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCardBusiness\obj\Release\ParameterCardBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCardBusiness\bin\Debug\ParameterCardBusiness.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCardBusiness\bin\Debug\ParameterCardBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCardBusiness\bin\Debug\Framework.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCardBusiness\bin\Debug\SandBar.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCardBusiness\bin\Debug\Framework.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCardBusiness\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\PublishingCard\PublishingCard\ParameterCardBusiness\obj\Debug\ParameterCardBusiness.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCardBusiness\obj\Debug\ParameterCardBusiness.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCardBusiness\bin\Debug\ParameterCardBusiness.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCardBusiness\bin\Debug\ParameterCardBusiness.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCardBusiness\bin\Debug\Framework.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCardBusiness\bin\Debug\SandBar.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCardBusiness\bin\Debug\Framework.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCardBusiness\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCardBusiness\obj\Debug\ParameterCardBusiness.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCardBusiness\obj\Debug\ParameterCardBusiness.pdb

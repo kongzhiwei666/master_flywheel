@@ -1,0 +1,48 @@
+E:\PublishingCard\SimulationBusiness\bin\Debug\SimulationBusiness.dll
+E:\PublishingCard\SimulationBusiness\bin\Debug\SimulationBusiness.pdb
+E:\PublishingCard\SimulationBusiness\obj\Debug\ResolveAssemblyReference.cache
+E:\PublishingCard\SimulationBusiness\obj\Debug\SimulationBusiness.dll
+E:\PublishingCard\SimulationBusiness\obj\Debug\SimulationBusiness.pdb
+E:\PublishingCard\SimulationBusiness\bin\Debug\Framework.dll
+E:\PublishingCard\SimulationBusiness\bin\Debug\SandBar.dll
+E:\PublishingCard\SimulationBusiness\bin\Debug\Framework.pdb
+E:\PublishingCard\SimulationBusiness\bin\Release\SimulationBusiness.dll
+E:\PublishingCard\SimulationBusiness\bin\Release\SimulationBusiness.pdb
+E:\PublishingCard\SimulationBusiness\bin\Release\Framework.dll
+E:\PublishingCard\SimulationBusiness\bin\Release\SandBar.dll
+E:\PublishingCard\SimulationBusiness\bin\Release\Framework.pdb
+E:\PublishingCard\SimulationBusiness\obj\Release\ResolveAssemblyReference.cache
+E:\PublishingCard\SimulationBusiness\obj\Release\SimulationBusiness.dll
+E:\PublishingCard\SimulationBusiness\obj\Release\SimulationBusiness.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\SimulationBusiness\bin\Release\SimulationBusiness.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\SimulationBusiness\bin\Release\SimulationBusiness.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\SimulationBusiness\bin\Release\Framework.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\SimulationBusiness\bin\Release\SandBar.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\SimulationBusiness\bin\Release\Framework.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\SimulationBusiness\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\SimulationBusiness\obj\Release\SimulationBusiness.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\SimulationBusiness\obj\Release\SimulationBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\SimulationBusiness\bin\Release\SimulationBusiness.dll
+E:\项目\PublishingCard\PublishingCard\SimulationBusiness\bin\Release\SimulationBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\SimulationBusiness\bin\Release\Framework.dll
+E:\项目\PublishingCard\PublishingCard\SimulationBusiness\bin\Release\SandBar.dll
+E:\项目\PublishingCard\PublishingCard\SimulationBusiness\bin\Release\Framework.pdb
+E:\项目\PublishingCard\PublishingCard\SimulationBusiness\obj\Release\ResolveAssemblyReference.cache
+E:\项目\PublishingCard\PublishingCard\SimulationBusiness\obj\Release\SimulationBusiness.dll
+E:\项目\PublishingCard\PublishingCard\SimulationBusiness\obj\Release\SimulationBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\SimulationBusiness\bin\Debug\SimulationBusiness.dll
+E:\项目\PublishingCard\PublishingCard\SimulationBusiness\bin\Debug\SimulationBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\SimulationBusiness\bin\Debug\Framework.dll
+E:\项目\PublishingCard\PublishingCard\SimulationBusiness\bin\Debug\SandBar.dll
+E:\项目\PublishingCard\PublishingCard\SimulationBusiness\bin\Debug\Framework.pdb
+E:\项目\PublishingCard\PublishingCard\SimulationBusiness\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\PublishingCard\PublishingCard\SimulationBusiness\obj\Debug\SimulationBusiness.dll
+E:\项目\PublishingCard\PublishingCard\SimulationBusiness\obj\Debug\SimulationBusiness.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\SimulationBusiness\bin\Debug\SimulationBusiness.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\SimulationBusiness\bin\Debug\SimulationBusiness.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\SimulationBusiness\bin\Debug\Framework.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\SimulationBusiness\bin\Debug\SandBar.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\SimulationBusiness\bin\Debug\Framework.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\SimulationBusiness\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\SimulationBusiness\obj\Debug\SimulationBusiness.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\SimulationBusiness\obj\Debug\SimulationBusiness.pdb

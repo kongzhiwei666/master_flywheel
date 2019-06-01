@@ -1,0 +1,114 @@
+E:\PublishingCard\TimeCard\obj\Debug\ResolveAssemblyReference.cache
+E:\PublishingCard\TimeCard\bin\Debug\TimeCard.dll
+E:\PublishingCard\TimeCard\bin\Debug\TimeCard.pdb
+E:\PublishingCard\TimeCard\bin\Debug\Common.dll
+E:\PublishingCard\TimeCard\bin\Debug\DockingSuite.dll
+E:\PublishingCard\TimeCard\bin\Debug\DocumentManager.dll
+E:\PublishingCard\TimeCard\bin\Debug\Framework.dll
+E:\PublishingCard\TimeCard\bin\Debug\Genghis.dll
+E:\PublishingCard\TimeCard\bin\Debug\SandBar.dll
+E:\PublishingCard\TimeCard\bin\Debug\Common.pdb
+E:\PublishingCard\TimeCard\bin\Debug\Framework.pdb
+E:\PublishingCard\TimeCard\obj\Debug\TimeCard.dll
+E:\PublishingCard\TimeCard\obj\Debug\TimeCard.pdb
+E:\PublishingCard\TimeCard\obj\Debug\TimeCard.TimeCard.resources
+E:\PublishingCard\TimeCard\obj\Debug\TimeCard.csproj.GenerateResource.Cache
+E:\PublishingCard\TimeCard\bin\Debug\TimeCardFacade.dll
+E:\PublishingCard\TimeCard\bin\Debug\TimeCardBusiness.dll
+E:\PublishingCard\TimeCard\bin\Debug\TimeCardBusiness.pdb
+E:\PublishingCard\TimeCard\bin\Debug\TimeCardFacade.pdb
+E:\PublishingCard\TimeCard\bin\Release\TimeCard.dll
+E:\PublishingCard\TimeCard\bin\Release\TimeCard.pdb
+E:\PublishingCard\TimeCard\bin\Release\Common.dll
+E:\PublishingCard\TimeCard\bin\Release\DockingSuite.dll
+E:\PublishingCard\TimeCard\bin\Release\DocumentManager.dll
+E:\PublishingCard\TimeCard\bin\Release\Framework.dll
+E:\PublishingCard\TimeCard\bin\Release\Genghis.dll
+E:\PublishingCard\TimeCard\bin\Release\SandBar.dll
+E:\PublishingCard\TimeCard\bin\Release\TimeCardFacade.dll
+E:\PublishingCard\TimeCard\bin\Release\TimeCardBusiness.dll
+E:\PublishingCard\TimeCard\bin\Release\Common.pdb
+E:\PublishingCard\TimeCard\bin\Release\Framework.pdb
+E:\PublishingCard\TimeCard\bin\Release\TimeCardBusiness.pdb
+E:\PublishingCard\TimeCard\bin\Release\TimeCardFacade.pdb
+E:\PublishingCard\TimeCard\obj\Release\ResolveAssemblyReference.cache
+E:\PublishingCard\TimeCard\obj\Release\TimeCard.TimeCard.resources
+E:\PublishingCard\TimeCard\obj\Release\TimeCard.csproj.GenerateResource.Cache
+E:\PublishingCard\TimeCard\obj\Release\TimeCard.dll
+E:\PublishingCard\TimeCard\obj\Release\TimeCard.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCard\bin\Release\TimeCard.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCard\bin\Release\TimeCard.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCard\bin\Release\Common.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCard\bin\Release\DockingSuite.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCard\bin\Release\DocumentManager.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCard\bin\Release\Framework.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCard\bin\Release\Genghis.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCard\bin\Release\SandBar.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCard\bin\Release\TimeCardFacade.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCard\bin\Release\TimeCardBusiness.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCard\bin\Release\Common.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCard\bin\Release\Framework.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCard\bin\Release\TimeCardBusiness.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCard\bin\Release\TimeCardFacade.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCard\obj\Release\TimeCard.TimeCard.resources
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCard\obj\Release\TimeCard.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCard\obj\Release\TimeCard.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCard\obj\Release\TimeCard.pdb
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Release\TimeCard.dll
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Release\TimeCard.pdb
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Release\Common.dll
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Release\DockingSuite.dll
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Release\DocumentManager.dll
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Release\Framework.dll
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Release\Genghis.dll
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Release\SandBar.dll
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Release\TimeCardFacade.dll
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Release\TimeCardBusiness.dll
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Release\Common.pdb
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Release\Framework.pdb
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Release\TimeCardBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Release\TimeCardFacade.pdb
+E:\项目\PublishingCard\PublishingCard\TimeCard\obj\Release\ResolveAssemblyReference.cache
+E:\项目\PublishingCard\PublishingCard\TimeCard\obj\Release\TimeCard.TimeCard.resources
+E:\项目\PublishingCard\PublishingCard\TimeCard\obj\Release\TimeCard.csproj.GenerateResource.Cache
+E:\项目\PublishingCard\PublishingCard\TimeCard\obj\Release\TimeCard.dll
+E:\项目\PublishingCard\PublishingCard\TimeCard\obj\Release\TimeCard.pdb
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Debug\TimeCard.dll
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Debug\TimeCard.pdb
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Debug\Common.dll
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Debug\DockingSuite.dll
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Debug\DocumentManager.dll
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Debug\Framework.dll
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Debug\Genghis.dll
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Debug\SandBar.dll
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Debug\TimeCardFacade.dll
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Debug\TimeCardBusiness.dll
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Debug\Common.pdb
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Debug\Framework.pdb
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Debug\TimeCardBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\TimeCard\bin\Debug\TimeCardFacade.pdb
+E:\项目\PublishingCard\PublishingCard\TimeCard\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\PublishingCard\PublishingCard\TimeCard\obj\Debug\TimeCard.TimeCard.resources
+E:\项目\PublishingCard\PublishingCard\TimeCard\obj\Debug\TimeCard.csproj.GenerateResource.Cache
+E:\项目\PublishingCard\PublishingCard\TimeCard\obj\Debug\TimeCard.dll
+E:\项目\PublishingCard\PublishingCard\TimeCard\obj\Debug\TimeCard.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCard\bin\Debug\TimeCard.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCard\bin\Debug\TimeCard.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCard\bin\Debug\Common.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCard\bin\Debug\DockingSuite.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCard\bin\Debug\DocumentManager.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCard\bin\Debug\Framework.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCard\bin\Debug\Genghis.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCard\bin\Debug\SandBar.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCard\bin\Debug\TimeCardFacade.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCard\bin\Debug\TimeCardBusiness.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCard\bin\Debug\Common.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCard\bin\Debug\Framework.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCard\bin\Debug\TimeCardBusiness.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCard\bin\Debug\TimeCardFacade.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCard\obj\Debug\TimeCard.TimeCard.resources
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCard\obj\Debug\TimeCard.csproj.GenerateResource.Cache
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCard\obj\Debug\TimeCard.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCard\obj\Debug\TimeCard.pdb

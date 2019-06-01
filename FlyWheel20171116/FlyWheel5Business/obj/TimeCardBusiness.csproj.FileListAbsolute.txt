@@ -1,0 +1,48 @@
+E:\PublishingCard\TimeCardBusiness\bin\Debug\TimeCardBusiness.dll
+E:\PublishingCard\TimeCardBusiness\bin\Debug\TimeCardBusiness.pdb
+E:\PublishingCard\TimeCardBusiness\bin\Debug\Framework.dll
+E:\PublishingCard\TimeCardBusiness\bin\Debug\SandBar.dll
+E:\PublishingCard\TimeCardBusiness\bin\Debug\Framework.pdb
+E:\PublishingCard\TimeCardBusiness\obj\Debug\ResolveAssemblyReference.cache
+E:\PublishingCard\TimeCardBusiness\obj\Debug\TimeCardBusiness.dll
+E:\PublishingCard\TimeCardBusiness\obj\Debug\TimeCardBusiness.pdb
+E:\PublishingCard\TimeCardBusiness\bin\Release\TimeCardBusiness.dll
+E:\PublishingCard\TimeCardBusiness\bin\Release\TimeCardBusiness.pdb
+E:\PublishingCard\TimeCardBusiness\bin\Release\Framework.dll
+E:\PublishingCard\TimeCardBusiness\bin\Release\SandBar.dll
+E:\PublishingCard\TimeCardBusiness\bin\Release\Framework.pdb
+E:\PublishingCard\TimeCardBusiness\obj\Release\ResolveAssemblyReference.cache
+E:\PublishingCard\TimeCardBusiness\obj\Release\TimeCardBusiness.dll
+E:\PublishingCard\TimeCardBusiness\obj\Release\TimeCardBusiness.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCardBusiness\bin\Release\TimeCardBusiness.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCardBusiness\bin\Release\TimeCardBusiness.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCardBusiness\bin\Release\Framework.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCardBusiness\bin\Release\SandBar.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCardBusiness\bin\Release\Framework.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCardBusiness\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCardBusiness\obj\Release\TimeCardBusiness.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\TimeCardBusiness\obj\Release\TimeCardBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\TimeCardBusiness\bin\Release\TimeCardBusiness.dll
+E:\项目\PublishingCard\PublishingCard\TimeCardBusiness\bin\Release\TimeCardBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\TimeCardBusiness\bin\Release\Framework.dll
+E:\项目\PublishingCard\PublishingCard\TimeCardBusiness\bin\Release\SandBar.dll
+E:\项目\PublishingCard\PublishingCard\TimeCardBusiness\bin\Release\Framework.pdb
+E:\项目\PublishingCard\PublishingCard\TimeCardBusiness\obj\Release\ResolveAssemblyReference.cache
+E:\项目\PublishingCard\PublishingCard\TimeCardBusiness\obj\Release\TimeCardBusiness.dll
+E:\项目\PublishingCard\PublishingCard\TimeCardBusiness\obj\Release\TimeCardBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\TimeCardBusiness\bin\Debug\TimeCardBusiness.dll
+E:\项目\PublishingCard\PublishingCard\TimeCardBusiness\bin\Debug\TimeCardBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\TimeCardBusiness\bin\Debug\Framework.dll
+E:\项目\PublishingCard\PublishingCard\TimeCardBusiness\bin\Debug\SandBar.dll
+E:\项目\PublishingCard\PublishingCard\TimeCardBusiness\bin\Debug\Framework.pdb
+E:\项目\PublishingCard\PublishingCard\TimeCardBusiness\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\PublishingCard\PublishingCard\TimeCardBusiness\obj\Debug\TimeCardBusiness.dll
+E:\项目\PublishingCard\PublishingCard\TimeCardBusiness\obj\Debug\TimeCardBusiness.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCardBusiness\bin\Debug\TimeCardBusiness.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCardBusiness\bin\Debug\TimeCardBusiness.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCardBusiness\bin\Debug\Framework.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCardBusiness\bin\Debug\SandBar.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCardBusiness\bin\Debug\Framework.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCardBusiness\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCardBusiness\obj\Debug\TimeCardBusiness.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\TimeCardBusiness\obj\Debug\TimeCardBusiness.pdb

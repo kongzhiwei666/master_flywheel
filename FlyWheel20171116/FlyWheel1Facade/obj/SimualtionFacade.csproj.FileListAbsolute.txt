@@ -1,0 +1,60 @@
+E:\PublishingCard\SimualtionFacade\bin\Debug\SimualtionFacade.dll
+E:\PublishingCard\SimualtionFacade\bin\Debug\SimualtionFacade.pdb
+E:\PublishingCard\SimualtionFacade\bin\Debug\SimulationBusiness.dll
+E:\PublishingCard\SimualtionFacade\bin\Debug\SimulationBusiness.pdb
+E:\PublishingCard\SimualtionFacade\obj\Debug\ResolveAssemblyReference.cache
+E:\PublishingCard\SimualtionFacade\obj\Debug\SimualtionFacade.dll
+E:\PublishingCard\SimualtionFacade\obj\Debug\SimualtionFacade.pdb
+E:\PublishingCard\SimualtionFacade\bin\Debug\Framework.dll
+E:\PublishingCard\SimualtionFacade\bin\Debug\SandBar.dll
+E:\PublishingCard\SimualtionFacade\bin\Debug\Framework.pdb
+E:\PublishingCard\SimualtionFacade\bin\Release\SimualtionFacade.dll
+E:\PublishingCard\SimualtionFacade\bin\Release\SimualtionFacade.pdb
+E:\PublishingCard\SimualtionFacade\bin\Release\SimulationBusiness.dll
+E:\PublishingCard\SimualtionFacade\bin\Release\Framework.dll
+E:\PublishingCard\SimualtionFacade\bin\Release\SandBar.dll
+E:\PublishingCard\SimualtionFacade\bin\Release\SimulationBusiness.pdb
+E:\PublishingCard\SimualtionFacade\bin\Release\Framework.pdb
+E:\PublishingCard\SimualtionFacade\obj\Release\ResolveAssemblyReference.cache
+E:\PublishingCard\SimualtionFacade\obj\Release\SimualtionFacade.dll
+E:\PublishingCard\SimualtionFacade\obj\Release\SimualtionFacade.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\SimualtionFacade\bin\Release\SimualtionFacade.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\SimualtionFacade\bin\Release\SimualtionFacade.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\SimualtionFacade\bin\Release\SimulationBusiness.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\SimualtionFacade\bin\Release\Framework.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\SimualtionFacade\bin\Release\SandBar.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\SimualtionFacade\bin\Release\SimulationBusiness.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\SimualtionFacade\bin\Release\Framework.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\SimualtionFacade\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\SimualtionFacade\obj\Release\SimualtionFacade.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\SimualtionFacade\obj\Release\SimualtionFacade.pdb
+E:\项目\PublishingCard\PublishingCard\SimualtionFacade\bin\Release\SimualtionFacade.dll
+E:\项目\PublishingCard\PublishingCard\SimualtionFacade\bin\Release\SimualtionFacade.pdb
+E:\项目\PublishingCard\PublishingCard\SimualtionFacade\bin\Release\SimulationBusiness.dll
+E:\项目\PublishingCard\PublishingCard\SimualtionFacade\bin\Release\Framework.dll
+E:\项目\PublishingCard\PublishingCard\SimualtionFacade\bin\Release\SandBar.dll
+E:\项目\PublishingCard\PublishingCard\SimualtionFacade\bin\Release\SimulationBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\SimualtionFacade\bin\Release\Framework.pdb
+E:\项目\PublishingCard\PublishingCard\SimualtionFacade\obj\Release\ResolveAssemblyReference.cache
+E:\项目\PublishingCard\PublishingCard\SimualtionFacade\obj\Release\SimualtionFacade.dll
+E:\项目\PublishingCard\PublishingCard\SimualtionFacade\obj\Release\SimualtionFacade.pdb
+E:\项目\PublishingCard\PublishingCard\SimualtionFacade\bin\Debug\SimualtionFacade.dll
+E:\项目\PublishingCard\PublishingCard\SimualtionFacade\bin\Debug\SimualtionFacade.pdb
+E:\项目\PublishingCard\PublishingCard\SimualtionFacade\bin\Debug\SimulationBusiness.dll
+E:\项目\PublishingCard\PublishingCard\SimualtionFacade\bin\Debug\Framework.dll
+E:\项目\PublishingCard\PublishingCard\SimualtionFacade\bin\Debug\SandBar.dll
+E:\项目\PublishingCard\PublishingCard\SimualtionFacade\bin\Debug\SimulationBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\SimualtionFacade\bin\Debug\Framework.pdb
+E:\项目\PublishingCard\PublishingCard\SimualtionFacade\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\PublishingCard\PublishingCard\SimualtionFacade\obj\Debug\SimualtionFacade.dll
+E:\项目\PublishingCard\PublishingCard\SimualtionFacade\obj\Debug\SimualtionFacade.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\SimualtionFacade\bin\Debug\SimualtionFacade.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\SimualtionFacade\bin\Debug\SimualtionFacade.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\SimualtionFacade\bin\Debug\SimulationBusiness.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\SimualtionFacade\bin\Debug\Framework.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\SimualtionFacade\bin\Debug\SandBar.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\SimualtionFacade\bin\Debug\SimulationBusiness.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\SimualtionFacade\bin\Debug\Framework.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\SimualtionFacade\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\SimualtionFacade\obj\Debug\SimualtionFacade.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\SimualtionFacade\obj\Debug\SimualtionFacade.pdb

@@ -1,0 +1,60 @@
+E:\PublishingCard\ChongValueFacade\bin\Debug\ChongValueFacade.dll
+E:\PublishingCard\ChongValueFacade\bin\Debug\ChongValueFacade.pdb
+E:\PublishingCard\ChongValueFacade\bin\Debug\ChongValueBusiness.dll
+E:\PublishingCard\ChongValueFacade\bin\Debug\ChongValueBusiness.pdb
+E:\PublishingCard\ChongValueFacade\obj\Debug\ResolveAssemblyReference.cache
+E:\PublishingCard\ChongValueFacade\obj\Debug\ChongValueFacade.dll
+E:\PublishingCard\ChongValueFacade\obj\Debug\ChongValueFacade.pdb
+E:\PublishingCard\ChongValueFacade\bin\Debug\Framework.dll
+E:\PublishingCard\ChongValueFacade\bin\Debug\SandBar.dll
+E:\PublishingCard\ChongValueFacade\bin\Debug\Framework.pdb
+E:\PublishingCard\ChongValueFacade\bin\Release\ChongValueFacade.dll
+E:\PublishingCard\ChongValueFacade\bin\Release\ChongValueFacade.pdb
+E:\PublishingCard\ChongValueFacade\bin\Release\ChongValueBusiness.dll
+E:\PublishingCard\ChongValueFacade\bin\Release\Framework.dll
+E:\PublishingCard\ChongValueFacade\bin\Release\SandBar.dll
+E:\PublishingCard\ChongValueFacade\bin\Release\Framework.pdb
+E:\PublishingCard\ChongValueFacade\bin\Release\ChongValueBusiness.pdb
+E:\PublishingCard\ChongValueFacade\obj\Release\ResolveAssemblyReference.cache
+E:\PublishingCard\ChongValueFacade\obj\Release\ChongValueFacade.dll
+E:\PublishingCard\ChongValueFacade\obj\Release\ChongValueFacade.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValueFacade\bin\Release\ChongValueFacade.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValueFacade\bin\Release\ChongValueFacade.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValueFacade\bin\Release\ChongValueBusiness.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValueFacade\bin\Release\Framework.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValueFacade\bin\Release\SandBar.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValueFacade\bin\Release\Framework.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValueFacade\bin\Release\ChongValueBusiness.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValueFacade\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValueFacade\obj\Release\ChongValueFacade.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValueFacade\obj\Release\ChongValueFacade.pdb
+E:\项目\PublishingCard\PublishingCard\ChongValueFacade\bin\Release\ChongValueFacade.dll
+E:\项目\PublishingCard\PublishingCard\ChongValueFacade\bin\Release\ChongValueFacade.pdb
+E:\项目\PublishingCard\PublishingCard\ChongValueFacade\bin\Release\ChongValueBusiness.dll
+E:\项目\PublishingCard\PublishingCard\ChongValueFacade\bin\Release\Framework.dll
+E:\项目\PublishingCard\PublishingCard\ChongValueFacade\bin\Release\SandBar.dll
+E:\项目\PublishingCard\PublishingCard\ChongValueFacade\bin\Release\Framework.pdb
+E:\项目\PublishingCard\PublishingCard\ChongValueFacade\bin\Release\ChongValueBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\ChongValueFacade\obj\Release\ResolveAssemblyReference.cache
+E:\项目\PublishingCard\PublishingCard\ChongValueFacade\obj\Release\ChongValueFacade.dll
+E:\项目\PublishingCard\PublishingCard\ChongValueFacade\obj\Release\ChongValueFacade.pdb
+E:\项目\PublishingCard\PublishingCard\ChongValueFacade\bin\Debug\ChongValueFacade.dll
+E:\项目\PublishingCard\PublishingCard\ChongValueFacade\bin\Debug\ChongValueFacade.pdb
+E:\项目\PublishingCard\PublishingCard\ChongValueFacade\bin\Debug\ChongValueBusiness.dll
+E:\项目\PublishingCard\PublishingCard\ChongValueFacade\bin\Debug\Framework.dll
+E:\项目\PublishingCard\PublishingCard\ChongValueFacade\bin\Debug\SandBar.dll
+E:\项目\PublishingCard\PublishingCard\ChongValueFacade\bin\Debug\Framework.pdb
+E:\项目\PublishingCard\PublishingCard\ChongValueFacade\bin\Debug\ChongValueBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\ChongValueFacade\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\PublishingCard\PublishingCard\ChongValueFacade\obj\Debug\ChongValueFacade.dll
+E:\项目\PublishingCard\PublishingCard\ChongValueFacade\obj\Debug\ChongValueFacade.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValueFacade\bin\Debug\ChongValueFacade.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValueFacade\bin\Debug\ChongValueFacade.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValueFacade\bin\Debug\ChongValueBusiness.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValueFacade\bin\Debug\Framework.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValueFacade\bin\Debug\SandBar.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValueFacade\bin\Debug\Framework.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValueFacade\bin\Debug\ChongValueBusiness.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValueFacade\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValueFacade\obj\Debug\ChongValueFacade.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValueFacade\obj\Debug\ChongValueFacade.pdb

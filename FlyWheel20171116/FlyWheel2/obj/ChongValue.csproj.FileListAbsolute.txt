@@ -1,0 +1,140 @@
+E:\PublishingCard\ChongValue\obj\Debug\ResolveAssemblyReference.cache
+E:\PublishingCard\ChongValue\bin\Debug\ChongValue.dll
+E:\PublishingCard\ChongValue\bin\Debug\ChongValue.pdb
+E:\PublishingCard\ChongValue\bin\Debug\Common.dll
+E:\PublishingCard\ChongValue\bin\Debug\DockingSuite.dll
+E:\PublishingCard\ChongValue\bin\Debug\DocumentManager.dll
+E:\PublishingCard\ChongValue\bin\Debug\Framework.dll
+E:\PublishingCard\ChongValue\bin\Debug\Genghis.dll
+E:\PublishingCard\ChongValue\bin\Debug\SandBar.dll
+E:\PublishingCard\ChongValue\bin\Debug\Common.pdb
+E:\PublishingCard\ChongValue\bin\Debug\Framework.pdb
+E:\PublishingCard\ChongValue\obj\Debug\ChongValue.dll
+E:\PublishingCard\ChongValue\obj\Debug\ChongValue.pdb
+E:\PublishingCard\ChongValue\obj\Debug\ChongValue.ChongValue.resources
+E:\PublishingCard\ChongValue\obj\Debug\ChongValue.csproj.GenerateResource.Cache
+E:\PublishingCard\ChongValue\obj\Debug\ChongValue.Form1.resources
+E:\PublishingCard\ChongValue\obj\Debug\ChongValue.Form2.resources
+E:\PublishingCard\ChongValue\obj\Debug\ChongValue.Form3.resources
+E:\PublishingCard\ChongValue\bin\Debug\ChongValueFacade.dll
+E:\PublishingCard\ChongValue\bin\Debug\ChongValueBusiness.dll
+E:\PublishingCard\ChongValue\bin\Debug\ChongValueFacade.pdb
+E:\PublishingCard\ChongValue\bin\Debug\ChongValueBusiness.pdb
+E:\PublishingCard\ChongValue\obj\Debug\ChongValue.Properties.Resources.resources
+E:\PublishingCard\ChongValue\obj\Debug\ChongValue.Form4.resources
+E:\PublishingCard\ChongValue\bin\Release\ChongValue.dll
+E:\PublishingCard\ChongValue\bin\Release\ChongValue.pdb
+E:\PublishingCard\ChongValue\bin\Release\ChongValueFacade.dll
+E:\PublishingCard\ChongValue\bin\Release\Common.dll
+E:\PublishingCard\ChongValue\bin\Release\DockingSuite.dll
+E:\PublishingCard\ChongValue\bin\Release\DocumentManager.dll
+E:\PublishingCard\ChongValue\bin\Release\Framework.dll
+E:\PublishingCard\ChongValue\bin\Release\Genghis.dll
+E:\PublishingCard\ChongValue\bin\Release\SandBar.dll
+E:\PublishingCard\ChongValue\bin\Release\ChongValueBusiness.dll
+E:\PublishingCard\ChongValue\bin\Release\Common.pdb
+E:\PublishingCard\ChongValue\bin\Release\ChongValueFacade.pdb
+E:\PublishingCard\ChongValue\bin\Release\Framework.pdb
+E:\PublishingCard\ChongValue\bin\Release\ChongValueBusiness.pdb
+E:\PublishingCard\ChongValue\obj\Release\ResolveAssemblyReference.cache
+E:\PublishingCard\ChongValue\obj\Release\ChongValue.ChongValue.resources
+E:\PublishingCard\ChongValue\obj\Release\ChongValue.Form1.resources
+E:\PublishingCard\ChongValue\obj\Release\ChongValue.Form2.resources
+E:\PublishingCard\ChongValue\obj\Release\ChongValue.Form3.resources
+E:\PublishingCard\ChongValue\obj\Release\ChongValue.Form4.resources
+E:\PublishingCard\ChongValue\obj\Release\ChongValue.Properties.Resources.resources
+E:\PublishingCard\ChongValue\obj\Release\ChongValue.csproj.GenerateResource.Cache
+E:\PublishingCard\ChongValue\obj\Release\ChongValue.dll
+E:\PublishingCard\ChongValue\obj\Release\ChongValue.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\bin\Release\ChongValue.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\bin\Release\ChongValue.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\bin\Release\ChongValueFacade.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\bin\Release\Common.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\bin\Release\DockingSuite.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\bin\Release\DocumentManager.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\bin\Release\Framework.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\bin\Release\Genghis.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\bin\Release\SandBar.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\bin\Release\ChongValueBusiness.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\bin\Release\Common.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\bin\Release\ChongValueFacade.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\bin\Release\Framework.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\bin\Release\ChongValueBusiness.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\obj\Release\ChongValue.ChongValue.resources
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\obj\Release\ChongValue.Form1.resources
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\obj\Release\ChongValue.Form2.resources
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\obj\Release\ChongValue.Form3.resources
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\obj\Release\ChongValue.Form4.resources
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\obj\Release\ChongValue.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\obj\Release\ChongValue.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\obj\Release\ChongValue.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ChongValue\obj\Release\ChongValue.pdb
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Release\ChongValue.dll
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Release\ChongValue.pdb
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Release\ChongValueFacade.dll
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Release\Common.dll
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Release\DockingSuite.dll
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Release\DocumentManager.dll
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Release\Framework.dll
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Release\Genghis.dll
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Release\SandBar.dll
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Release\ChongValueBusiness.dll
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Release\Common.pdb
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Release\ChongValueFacade.pdb
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Release\Framework.pdb
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Release\ChongValueBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\ChongValue\obj\Release\ResolveAssemblyReference.cache
+E:\项目\PublishingCard\PublishingCard\ChongValue\obj\Release\ChongValue.ChongValue.resources
+E:\项目\PublishingCard\PublishingCard\ChongValue\obj\Release\ChongValue.Form1.resources
+E:\项目\PublishingCard\PublishingCard\ChongValue\obj\Release\ChongValue.Form2.resources
+E:\项目\PublishingCard\PublishingCard\ChongValue\obj\Release\ChongValue.Form3.resources
+E:\项目\PublishingCard\PublishingCard\ChongValue\obj\Release\ChongValue.Form4.resources
+E:\项目\PublishingCard\PublishingCard\ChongValue\obj\Release\ChongValue.Properties.Resources.resources
+E:\项目\PublishingCard\PublishingCard\ChongValue\obj\Release\ChongValue.csproj.GenerateResource.Cache
+E:\项目\PublishingCard\PublishingCard\ChongValue\obj\Release\ChongValue.dll
+E:\项目\PublishingCard\PublishingCard\ChongValue\obj\Release\ChongValue.pdb
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Debug\ChongValue.dll
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Debug\ChongValue.pdb
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Debug\ChongValueFacade.dll
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Debug\Common.dll
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Debug\DockingSuite.dll
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Debug\DocumentManager.dll
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Debug\Framework.dll
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Debug\Genghis.dll
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Debug\SandBar.dll
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Debug\ChongValueBusiness.dll
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Debug\Common.pdb
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Debug\ChongValueFacade.pdb
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Debug\Framework.pdb
+E:\项目\PublishingCard\PublishingCard\ChongValue\bin\Debug\ChongValueBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\ChongValue\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\PublishingCard\PublishingCard\ChongValue\obj\Debug\ChongValue.ChongValue.resources
+E:\项目\PublishingCard\PublishingCard\ChongValue\obj\Debug\ChongValue.Form1.resources
+E:\项目\PublishingCard\PublishingCard\ChongValue\obj\Debug\ChongValue.Form2.resources
+E:\项目\PublishingCard\PublishingCard\ChongValue\obj\Debug\ChongValue.Form3.resources
+E:\项目\PublishingCard\PublishingCard\ChongValue\obj\Debug\ChongValue.Form4.resources
+E:\项目\PublishingCard\PublishingCard\ChongValue\obj\Debug\ChongValue.Properties.Resources.resources
+E:\项目\PublishingCard\PublishingCard\ChongValue\obj\Debug\ChongValue.csproj.GenerateResource.Cache
+E:\项目\PublishingCard\PublishingCard\ChongValue\obj\Debug\ChongValue.dll
+E:\项目\PublishingCard\PublishingCard\ChongValue\obj\Debug\ChongValue.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValue\bin\Debug\ChongValue.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValue\bin\Debug\ChongValue.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValue\bin\Debug\ChongValueFacade.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValue\bin\Debug\Common.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValue\bin\Debug\DockingSuite.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValue\bin\Debug\DocumentManager.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValue\bin\Debug\Framework.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValue\bin\Debug\Genghis.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValue\bin\Debug\SandBar.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValue\bin\Debug\ChongValueBusiness.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValue\bin\Debug\Common.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValue\bin\Debug\ChongValueFacade.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValue\bin\Debug\Framework.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValue\bin\Debug\ChongValueBusiness.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValue\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValue\obj\Debug\ChongValue.ChongValue.resources
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValue\obj\Debug\ChongValue.Properties.Resources.resources
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValue\obj\Debug\ChongValue.csproj.GenerateResource.Cache
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValue\obj\Debug\ChongValue.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ChongValue\obj\Debug\ChongValue.pdb

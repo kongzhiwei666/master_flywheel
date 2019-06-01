@@ -1,0 +1,116 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DB11A01A-CAE4-48EC-86D4-500861C52B3D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FlyWheel8</RootNamespace>
+    <AssemblyName>FlyWheel8</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Common, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Common\bin\Debug\Common.dll</HintPath>
+    </Reference>
+    <Reference Include="DockingSuite, Version=0.9.6.0, Culture=neutral, PublicKeyToken=f7035374aed2c173">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Common\bin\Debug\DockingSuite.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentManager, Version=0.9.6.0, Culture=neutral, PublicKeyToken=d9f5cd6d45cde5f3">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Common\bin\Debug\DocumentManager.dll</HintPath>
+    </Reference>
+    <Reference Include="Framework, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Common\bin\Debug\Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="Genghis, Version=0.5.1529.35402, Culture=neutral, PublicKeyToken=f595a82b5e5c871c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Common\bin\Debug\Genghis.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.5.0.0, Culture=neutral, PublicKeyToken=1b03e6acf1164f73">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Common\bin\Debug\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=1.0.4.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Common\bin\Debug\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="SandBar, Version=1.0.12.2, Culture=neutral, PublicKeyToken=75b7ec17dd7c14c3">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Common\bin\Debug\SandBar.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FlyWheel8.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FlyWheel8.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FlyWheel8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CommonFacade\CommonFacade.csproj">
+      <Project>{25880B12-E67E-40B4-B39F-96C1D7B34605}</Project>
+      <Name>CommonFacade</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FlyWheel8Facade\FlyWheel8Facade.csproj">
+      <Project>{AD3F0F92-6D95-4386-A243-E160A256BD0C}</Project>
+      <Name>FlyWheel8Facade</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

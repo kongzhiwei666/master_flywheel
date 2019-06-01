@@ -1,0 +1,60 @@
+E:\PublishingCard\ParameterCardFacade\obj\Debug\ResolveAssemblyReference.cache
+E:\PublishingCard\ParameterCardFacade\bin\Debug\ParameterCardFacade.dll
+E:\PublishingCard\ParameterCardFacade\bin\Debug\ParameterCardFacade.pdb
+E:\PublishingCard\ParameterCardFacade\bin\Debug\ParameterCardBusiness.dll
+E:\PublishingCard\ParameterCardFacade\bin\Debug\Framework.dll
+E:\PublishingCard\ParameterCardFacade\bin\Debug\SandBar.dll
+E:\PublishingCard\ParameterCardFacade\bin\Debug\Framework.pdb
+E:\PublishingCard\ParameterCardFacade\bin\Debug\ParameterCardBusiness.pdb
+E:\PublishingCard\ParameterCardFacade\obj\Debug\ParameterCardFacade.dll
+E:\PublishingCard\ParameterCardFacade\obj\Debug\ParameterCardFacade.pdb
+E:\PublishingCard\ParameterCardFacade\bin\Release\ParameterCardFacade.dll
+E:\PublishingCard\ParameterCardFacade\bin\Release\ParameterCardFacade.pdb
+E:\PublishingCard\ParameterCardFacade\bin\Release\ParameterCardBusiness.dll
+E:\PublishingCard\ParameterCardFacade\bin\Release\Framework.dll
+E:\PublishingCard\ParameterCardFacade\bin\Release\SandBar.dll
+E:\PublishingCard\ParameterCardFacade\bin\Release\Framework.pdb
+E:\PublishingCard\ParameterCardFacade\bin\Release\ParameterCardBusiness.pdb
+E:\PublishingCard\ParameterCardFacade\obj\Release\ResolveAssemblyReference.cache
+E:\PublishingCard\ParameterCardFacade\obj\Release\ParameterCardFacade.dll
+E:\PublishingCard\ParameterCardFacade\obj\Release\ParameterCardFacade.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCardFacade\bin\Release\ParameterCardFacade.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCardFacade\bin\Release\ParameterCardFacade.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCardFacade\bin\Release\ParameterCardBusiness.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCardFacade\bin\Release\Framework.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCardFacade\bin\Release\SandBar.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCardFacade\bin\Release\Framework.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCardFacade\bin\Release\ParameterCardBusiness.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCardFacade\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCardFacade\obj\Release\ParameterCardFacade.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCardFacade\obj\Release\ParameterCardFacade.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCardFacade\bin\Release\ParameterCardFacade.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCardFacade\bin\Release\ParameterCardFacade.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCardFacade\bin\Release\ParameterCardBusiness.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCardFacade\bin\Release\Framework.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCardFacade\bin\Release\SandBar.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCardFacade\bin\Release\Framework.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCardFacade\bin\Release\ParameterCardBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCardFacade\obj\Release\ResolveAssemblyReference.cache
+E:\项目\PublishingCard\PublishingCard\ParameterCardFacade\obj\Release\ParameterCardFacade.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCardFacade\obj\Release\ParameterCardFacade.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCardFacade\bin\Debug\ParameterCardFacade.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCardFacade\bin\Debug\ParameterCardFacade.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCardFacade\bin\Debug\ParameterCardBusiness.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCardFacade\bin\Debug\Framework.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCardFacade\bin\Debug\SandBar.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCardFacade\bin\Debug\Framework.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCardFacade\bin\Debug\ParameterCardBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCardFacade\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\PublishingCard\PublishingCard\ParameterCardFacade\obj\Debug\ParameterCardFacade.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCardFacade\obj\Debug\ParameterCardFacade.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCardFacade\bin\Debug\ParameterCardFacade.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCardFacade\bin\Debug\ParameterCardFacade.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCardFacade\bin\Debug\ParameterCardBusiness.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCardFacade\bin\Debug\Framework.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCardFacade\bin\Debug\SandBar.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCardFacade\bin\Debug\Framework.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCardFacade\bin\Debug\ParameterCardBusiness.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCardFacade\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCardFacade\obj\Debug\ParameterCardFacade.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCardFacade\obj\Debug\ParameterCardFacade.pdb

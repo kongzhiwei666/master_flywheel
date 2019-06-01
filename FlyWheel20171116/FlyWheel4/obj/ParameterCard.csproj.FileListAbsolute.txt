@@ -1,0 +1,114 @@
+E:\PublishingCard\ParameterCard\obj\Debug\ResolveAssemblyReference.cache
+E:\PublishingCard\ParameterCard\bin\Debug\ParameterCard.dll
+E:\PublishingCard\ParameterCard\bin\Debug\ParameterCard.pdb
+E:\PublishingCard\ParameterCard\bin\Debug\Common.dll
+E:\PublishingCard\ParameterCard\bin\Debug\DockingSuite.dll
+E:\PublishingCard\ParameterCard\bin\Debug\DocumentManager.dll
+E:\PublishingCard\ParameterCard\bin\Debug\Framework.dll
+E:\PublishingCard\ParameterCard\bin\Debug\Genghis.dll
+E:\PublishingCard\ParameterCard\bin\Debug\SandBar.dll
+E:\PublishingCard\ParameterCard\bin\Debug\Common.pdb
+E:\PublishingCard\ParameterCard\bin\Debug\Framework.pdb
+E:\PublishingCard\ParameterCard\obj\Debug\ParameterCard.dll
+E:\PublishingCard\ParameterCard\obj\Debug\ParameterCard.pdb
+E:\PublishingCard\ParameterCard\obj\Debug\ParameterCard.ParameterCard.resources
+E:\PublishingCard\ParameterCard\obj\Debug\ParameterCard.csproj.GenerateResource.Cache
+E:\PublishingCard\ParameterCard\bin\Debug\ParameterCardFacade.dll
+E:\PublishingCard\ParameterCard\bin\Debug\ParameterCardBusiness.dll
+E:\PublishingCard\ParameterCard\bin\Debug\ParameterCardFacade.pdb
+E:\PublishingCard\ParameterCard\bin\Debug\ParameterCardBusiness.pdb
+E:\PublishingCard\ParameterCard\bin\Release\ParameterCard.dll
+E:\PublishingCard\ParameterCard\bin\Release\ParameterCard.pdb
+E:\PublishingCard\ParameterCard\bin\Release\Common.dll
+E:\PublishingCard\ParameterCard\bin\Release\DockingSuite.dll
+E:\PublishingCard\ParameterCard\bin\Release\DocumentManager.dll
+E:\PublishingCard\ParameterCard\bin\Release\Framework.dll
+E:\PublishingCard\ParameterCard\bin\Release\Genghis.dll
+E:\PublishingCard\ParameterCard\bin\Release\ParameterCardFacade.dll
+E:\PublishingCard\ParameterCard\bin\Release\SandBar.dll
+E:\PublishingCard\ParameterCard\bin\Release\ParameterCardBusiness.dll
+E:\PublishingCard\ParameterCard\bin\Release\Common.pdb
+E:\PublishingCard\ParameterCard\bin\Release\ParameterCardFacade.pdb
+E:\PublishingCard\ParameterCard\bin\Release\Framework.pdb
+E:\PublishingCard\ParameterCard\bin\Release\ParameterCardBusiness.pdb
+E:\PublishingCard\ParameterCard\obj\Release\ResolveAssemblyReference.cache
+E:\PublishingCard\ParameterCard\obj\Release\ParameterCard.ParameterCard.resources
+E:\PublishingCard\ParameterCard\obj\Release\ParameterCard.csproj.GenerateResource.Cache
+E:\PublishingCard\ParameterCard\obj\Release\ParameterCard.dll
+E:\PublishingCard\ParameterCard\obj\Release\ParameterCard.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCard\bin\Release\ParameterCard.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCard\bin\Release\ParameterCard.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCard\bin\Release\Common.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCard\bin\Release\DockingSuite.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCard\bin\Release\DocumentManager.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCard\bin\Release\Framework.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCard\bin\Release\Genghis.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCard\bin\Release\ParameterCardFacade.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCard\bin\Release\SandBar.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCard\bin\Release\ParameterCardBusiness.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCard\bin\Release\Common.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCard\bin\Release\ParameterCardFacade.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCard\bin\Release\Framework.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCard\bin\Release\ParameterCardBusiness.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCard\obj\Release\ParameterCard.ParameterCard.resources
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCard\obj\Release\ParameterCard.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCard\obj\Release\ParameterCard.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\ParameterCard\obj\Release\ParameterCard.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Release\ParameterCard.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Release\ParameterCard.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Release\Common.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Release\DockingSuite.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Release\DocumentManager.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Release\Framework.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Release\Genghis.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Release\ParameterCardFacade.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Release\SandBar.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Release\ParameterCardBusiness.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Release\Common.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Release\ParameterCardFacade.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Release\Framework.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Release\ParameterCardBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCard\obj\Release\ResolveAssemblyReference.cache
+E:\项目\PublishingCard\PublishingCard\ParameterCard\obj\Release\ParameterCard.ParameterCard.resources
+E:\项目\PublishingCard\PublishingCard\ParameterCard\obj\Release\ParameterCard.csproj.GenerateResource.Cache
+E:\项目\PublishingCard\PublishingCard\ParameterCard\obj\Release\ParameterCard.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCard\obj\Release\ParameterCard.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Debug\ParameterCard.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Debug\ParameterCard.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Debug\Common.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Debug\DockingSuite.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Debug\DocumentManager.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Debug\Framework.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Debug\Genghis.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Debug\ParameterCardFacade.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Debug\SandBar.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Debug\ParameterCardBusiness.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Debug\Common.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Debug\ParameterCardFacade.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Debug\Framework.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCard\bin\Debug\ParameterCardBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\ParameterCard\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\PublishingCard\PublishingCard\ParameterCard\obj\Debug\ParameterCard.ParameterCard.resources
+E:\项目\PublishingCard\PublishingCard\ParameterCard\obj\Debug\ParameterCard.csproj.GenerateResource.Cache
+E:\项目\PublishingCard\PublishingCard\ParameterCard\obj\Debug\ParameterCard.dll
+E:\项目\PublishingCard\PublishingCard\ParameterCard\obj\Debug\ParameterCard.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCard\bin\Debug\ParameterCard.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCard\bin\Debug\ParameterCard.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCard\bin\Debug\Common.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCard\bin\Debug\DockingSuite.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCard\bin\Debug\DocumentManager.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCard\bin\Debug\Framework.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCard\bin\Debug\Genghis.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCard\bin\Debug\ParameterCardFacade.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCard\bin\Debug\SandBar.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCard\bin\Debug\ParameterCardBusiness.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCard\bin\Debug\Common.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCard\bin\Debug\ParameterCardFacade.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCard\bin\Debug\Framework.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCard\bin\Debug\ParameterCardBusiness.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCard\obj\Debug\ParameterCard.ParameterCard.resources
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCard\obj\Debug\ParameterCard.csproj.GenerateResource.Cache
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCard\obj\Debug\ParameterCard.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\ParameterCard\obj\Debug\ParameterCard.pdb

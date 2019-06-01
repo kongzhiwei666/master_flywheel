@@ -1,0 +1,139 @@
+E:\PublishingCard\Simulation\bin\Debug\Simulation.dll
+E:\PublishingCard\Simulation\bin\Debug\Simulation.pdb
+E:\PublishingCard\Simulation\obj\Debug\ResolveAssemblyReference.cache
+E:\PublishingCard\Simulation\obj\Debug\Simulation.dll
+E:\PublishingCard\Simulation\obj\Debug\Simulation.pdb
+E:\PublishingCard\Simulation\bin\Debug\Common.dll
+E:\PublishingCard\Simulation\bin\Debug\CommonFacade.dll
+E:\PublishingCard\Simulation\bin\Debug\DockingSuite.dll
+E:\PublishingCard\Simulation\bin\Debug\DocumentManager.dll
+E:\PublishingCard\Simulation\bin\Debug\Framework.dll
+E:\PublishingCard\Simulation\bin\Debug\Genghis.dll
+E:\PublishingCard\Simulation\bin\Debug\SandBar.dll
+E:\PublishingCard\Simulation\bin\Debug\CommonBusiness.dll
+E:\PublishingCard\Simulation\bin\Debug\Common.pdb
+E:\PublishingCard\Simulation\bin\Debug\CommonFacade.pdb
+E:\PublishingCard\Simulation\bin\Debug\CommonBusiness.pdb
+E:\PublishingCard\Simulation\bin\Debug\Framework.pdb
+E:\PublishingCard\Simulation\obj\Debug\Simulation.SimulationGui.resources
+E:\PublishingCard\Simulation\obj\Debug\Simulation.csproj.GenerateResource.Cache
+E:\PublishingCard\Simulation\bin\Debug\SimualtionFacade.dll
+E:\PublishingCard\Simulation\bin\Debug\SimualtionFacade.pdb
+E:\PublishingCard\Simulation\bin\Debug\SimulationBusiness.dll
+E:\PublishingCard\Simulation\bin\Debug\SimulationBusiness.pdb
+E:\PublishingCard\Simulation\bin\Release\Simulation.dll
+E:\PublishingCard\Simulation\bin\Release\Simulation.pdb
+E:\PublishingCard\Simulation\bin\Release\Common.dll
+E:\PublishingCard\Simulation\bin\Release\CommonFacade.dll
+E:\PublishingCard\Simulation\bin\Release\DockingSuite.dll
+E:\PublishingCard\Simulation\bin\Release\DocumentManager.dll
+E:\PublishingCard\Simulation\bin\Release\Framework.dll
+E:\PublishingCard\Simulation\bin\Release\Genghis.dll
+E:\PublishingCard\Simulation\bin\Release\SandBar.dll
+E:\PublishingCard\Simulation\bin\Release\SimualtionFacade.dll
+E:\PublishingCard\Simulation\bin\Release\CommonBusiness.dll
+E:\PublishingCard\Simulation\bin\Release\SimulationBusiness.dll
+E:\PublishingCard\Simulation\bin\Release\Common.pdb
+E:\PublishingCard\Simulation\bin\Release\CommonFacade.pdb
+E:\PublishingCard\Simulation\bin\Release\SimualtionFacade.pdb
+E:\PublishingCard\Simulation\bin\Release\CommonBusiness.pdb
+E:\PublishingCard\Simulation\bin\Release\SimulationBusiness.pdb
+E:\PublishingCard\Simulation\bin\Release\Framework.pdb
+E:\PublishingCard\Simulation\obj\Release\ResolveAssemblyReference.cache
+E:\PublishingCard\Simulation\obj\Release\Simulation.SimulationGui.resources
+E:\PublishingCard\Simulation\obj\Release\Simulation.csproj.GenerateResource.Cache
+E:\PublishingCard\Simulation\obj\Release\Simulation.dll
+E:\PublishingCard\Simulation\obj\Release\Simulation.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\bin\Release\Simulation.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\bin\Release\Simulation.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\bin\Release\Common.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\bin\Release\CommonFacade.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\bin\Release\DockingSuite.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\bin\Release\DocumentManager.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\bin\Release\Framework.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\bin\Release\Genghis.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\bin\Release\SandBar.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\bin\Release\SimualtionFacade.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\bin\Release\CommonBusiness.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\bin\Release\SimulationBusiness.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\bin\Release\Common.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\bin\Release\CommonFacade.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\bin\Release\SimualtionFacade.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\bin\Release\CommonBusiness.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\bin\Release\SimulationBusiness.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\bin\Release\Framework.pdb
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\obj\Release\Simulation.SimulationGui.resources
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\obj\Release\Simulation.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\obj\Release\Simulation.dll
+C:\Documents and Settings\Administrator\桌面\PublishingCard\PublishingCard\Simulation\obj\Release\Simulation.pdb
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Release\Simulation.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Release\Simulation.pdb
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Release\Common.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Release\CommonFacade.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Release\DockingSuite.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Release\DocumentManager.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Release\Framework.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Release\Genghis.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Release\SandBar.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Release\SimualtionFacade.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Release\CommonBusiness.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Release\SimulationBusiness.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Release\Common.pdb
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Release\CommonFacade.pdb
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Release\SimualtionFacade.pdb
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Release\CommonBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Release\SimulationBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Release\Framework.pdb
+E:\项目\PublishingCard\PublishingCard\Simulation\obj\Release\ResolveAssemblyReference.cache
+E:\项目\PublishingCard\PublishingCard\Simulation\obj\Release\Simulation.SimulationGui.resources
+E:\项目\PublishingCard\PublishingCard\Simulation\obj\Release\Simulation.csproj.GenerateResource.Cache
+E:\项目\PublishingCard\PublishingCard\Simulation\obj\Release\Simulation.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\obj\Release\Simulation.pdb
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Debug\Simulation.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Debug\Simulation.pdb
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Debug\Common.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Debug\CommonFacade.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Debug\DockingSuite.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Debug\DocumentManager.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Debug\Framework.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Debug\Genghis.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Debug\SandBar.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Debug\SimualtionFacade.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Debug\CommonBusiness.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Debug\SimulationBusiness.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Debug\Common.pdb
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Debug\CommonFacade.pdb
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Debug\SimualtionFacade.pdb
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Debug\CommonBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Debug\SimulationBusiness.pdb
+E:\项目\PublishingCard\PublishingCard\Simulation\bin\Debug\Framework.pdb
+E:\项目\PublishingCard\PublishingCard\Simulation\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\PublishingCard\PublishingCard\Simulation\obj\Debug\Simulation.SimulationGui.resources
+E:\项目\PublishingCard\PublishingCard\Simulation\obj\Debug\Simulation.csproj.GenerateResource.Cache
+E:\项目\PublishingCard\PublishingCard\Simulation\obj\Debug\Simulation.dll
+E:\项目\PublishingCard\PublishingCard\Simulation\obj\Debug\Simulation.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\bin\Debug\Simulation.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\bin\Debug\Simulation.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\bin\Debug\Common.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\bin\Debug\CommonFacade.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\bin\Debug\DockingSuite.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\bin\Debug\DocumentManager.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\bin\Debug\Framework.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\bin\Debug\Genghis.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\bin\Debug\SandBar.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\bin\Debug\SimualtionFacade.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\bin\Debug\CommonBusiness.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\bin\Debug\SimulationBusiness.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\bin\Debug\Common.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\bin\Debug\CommonFacade.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\bin\Debug\SimualtionFacade.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\bin\Debug\CommonBusiness.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\bin\Debug\SimulationBusiness.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\bin\Debug\Framework.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\obj\Debug\Simulation.SimulationGui.resources
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\obj\Debug\Simulation.csproj.GenerateResource.Cache
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\obj\Debug\Simulation.dll
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\obj\Debug\Simulation.pdb
+C:\Users\LUQIANG\Desktop\飞轮控制\PublishingCard\Simulation\obj\Debug\Simulation.Properties.Resources.resources
